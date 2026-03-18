@@ -1,5 +1,5 @@
 # Power-BI
-Power BI Capstone
+Power BI Capstone: A dashboard has been created for the points mentioned below. This has allowed me to work on multiple features of Power BI from measures to cross reference.
 ### 1. Top Categories by Total Price:
 
 Identify and visually represent the top 10 product categories by total sales.
